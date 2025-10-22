@@ -1,4 +1,7 @@
-![Correlation Heatmap](correlation heatmap.png)
+![Correlation Heatmap](correlationheatmap.png)
 ![Relationship Plot](relationship.png)
 ![Distribution Plot](Distribution.png)
 ![Outlier Plot](Outlier.png)
+![Final Evaluation Plot](FinalEvaluation.png)
+![Linearregression Plot](linearregression.png)
+![Missing Plot](missing.png)
